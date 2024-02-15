@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Checkpoint
+  - bala
+  - Muerte
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platforms
+  - Water
+  - UI
+  - Slime
+  - Hero
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "Tel\xF3n"
+    uniqueID: 1686957905
+    locked: 0
+  - name: Slime
+    uniqueID: 1703523187
+    locked: 0
+  - name: UI
+    uniqueID: 223926963
+    locked: 0
